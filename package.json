@@ -1,0 +1,24 @@
+{
+  "name": "e2e-playwright-mcp",
+  "version": "1.0.0",
+  "description": "Test Automation Framework that uses Playwright MCP Framework using Typescript, LLM and Cursor AI IDE",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbhattarai/e2e-playwright-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbhattarai/e2e-playwright-mcp/issues"
+  },
+  "homepage": "https://github.com/rbhattarai/e2e-playwright-mcp#readme",
+  "devDependencies": {
+    "@playwright/mcp": "^0.0.68",
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3",
+    "typescript": "^5.9.3"
+  }
+}
