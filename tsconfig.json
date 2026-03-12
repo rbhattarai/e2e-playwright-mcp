@@ -8,5 +8,5 @@
     "resolveJsonModule": true,
     "types": ["node", "playwright"]
   },
-  "include": ["tests", "playwright.config.ts"]
+  "include": ["e2e", "tests", "playwright.config.ts"]
 }
